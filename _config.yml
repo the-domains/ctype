@@ -2,6 +2,7 @@ name: ctype
 favicon: null
 layout_spectrum: 0.20515823643654585
 typography_spectrum: 0.8630553423427045
+title: c.type
 cta:
   domain: null
   bucket: null
