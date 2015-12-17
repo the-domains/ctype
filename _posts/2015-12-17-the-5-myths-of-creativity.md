@@ -17,8 +17,8 @@ keywords:
   - fist-fighting
   - isn
 description: "Mention the word creativity, and people begin to squirm in their chairs. The very thought can prompt anxiety, fear, and doubt--even in the most accomplished professionals. Let's explore some common myths, and uncover the truth behind this \"fuzzy\" topic: MYTH 1: Creativity is only needed at the top TRUTH : In today's business environment, creativity applies to everyone."
-datePublished: '2015-12-17T20:18:52.544Z'
-dateModified: '2015-12-17T20:15:20.061Z'
+datePublished: '2015-12-17T20:25:23.561Z'
+dateModified: '2015-12-17T20:25:09.167Z'
 author:
   - name: Josh Linkner
     url: 'http://www.inc.com/author/josh-linkner'
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The 5 Myths of Creativity</h1><p>Mention the word creativity, and people begin to squirm in their chairs. The very thought can prompt anxiety, fear, and doubt--even in the most accomplished professionals. Let's explore some common myths, and uncover the truth behind this "fuzzy" topic: MYTH 1: Creativity is only needed at the top TRUTH : In today's business environment, creativity applies to everyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d098ba618571d83f2b7692e6419efb45cffc9b52.jpg" /></article>
+<article style=""><h1>The 5 Myths of Creativity</h1><p>Mention the word creativity, and people begin to squirm in their chairs. The very thought can prompt anxiety, fear, and doubt--even in the most accomplished professionals. Let's explore some common myths, and uncover the truth behind this "fuzzy" topic: MYTH 1: Creativity is only needed at the top TRUTH : In today's business environment, creativity applies to everyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0023e4b6767b880d8ad674a9db8bc7a30bdd37bc.jpg" /></article>
