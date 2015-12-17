@@ -1,6 +1,6 @@
 name: ctype
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.23938
 typography_spectrum: 0.50912
 title: c.type
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d1d1d1'
-    - '#afafaf'
-    - '#797979'
-    - '#090909'
-    - '#434343'
+    - '#009999'
+    - '#ffffff'
+    - '#4bb7b7'
+    - '#bae3e3'
+    - '#89d0d0'
   brandStrength: 0.5
   lightness: 1
   saturation: 1
