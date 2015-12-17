@@ -1,0 +1,28 @@
+name: ctype
+favicon: null
+layout_spectrum: 0.20515823643654585
+typography_spectrum: 0.8630553423427045
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6131283917929977
+  lightness: 0.661852833814919
+  saturation: 0.15555530367419124
+  rhythmicContrast: 0.5149014394264668
+purpose: []
