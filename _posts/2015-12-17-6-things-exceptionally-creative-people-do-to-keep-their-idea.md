@@ -16,8 +16,8 @@ keywords:
   - nurturing
   - input
 description: "We all associate creativity with painters, musicians, and chefs, but creativity isn't limited to the arts. Creativity in business is one of the most useful but infrequently trained and cultivated skills. The common belief that \"you either have it or you don't\" further hampers employees' efforts to increase their own creativity aptitude."
-datePublished: '2015-12-18T00:40:26.253Z'
-dateModified: '2015-12-18T00:40:21.755Z'
+datePublished: '2015-12-18T00:51:53.228Z'
+dateModified: '2015-12-18T00:51:32.910Z'
 author:
   - name: Robin Camarote
     url: 'http://www.inc.com/author/robin-camarote'
