@@ -16,8 +16,8 @@ keywords:
   - nurturing
   - input
 description: "We all associate creativity with painters, musicians, and chefs, but creativity isn't limited to the arts. Creativity in business is one of the most useful but infrequently trained and cultivated skills. The common belief that \"you either have it or you don't\" further hampers employees' efforts to increase their own creativity aptitude."
-datePublished: '2015-12-18T00:51:53.228Z'
-dateModified: '2015-12-18T00:51:32.910Z'
+datePublished: '2015-12-18T00:55:30.084Z'
+dateModified: '2015-12-18T00:54:33.623Z'
 author:
   - name: Robin Camarote
     url: 'http://www.inc.com/author/robin-camarote'
@@ -45,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>6 Things Exceptionally Creative People Do to Keep Their Ideas Flowing</h1><p>We all associate creativity with painters, musicians, and chefs, but creativity isn't limited to the arts. Creativity in business is one of the most useful but infrequently trained and cultivated skills. The common belief that "you either have it or you don't" further hampers employees' efforts to increase their own creativity aptitude.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ace8edb7d2e532bf1c4ab369b0ef1cd1c064a7d.jpg" /></article>
+<article style=""><h1>6 Things Exceptionally Creative People Do to Keep Their Ideas Flowing</h1><p>We all associate creativity with painters, musicians, and chefs, but creativity isn't limited to the arts. Creativity in business is one of the most useful but infrequently trained and cultivated skills. The common belief that "you either have it or you don't" further hampers employees' efforts to increase their own creativity aptitude.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa5dc18e7cdaa6d6d39329e7d64de7303d2d75e.jpg" /></article>
