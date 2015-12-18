@@ -2,23 +2,24 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
-description: Helping you to express your creative voice at work
-datePublished: '2015-12-17T23:55:02.932Z'
-dateModified: '2015-12-17T23:54:39.074Z'
+description: Express your creative voice at work
+datePublished: '2015-12-18T00:08:28.685Z'
+dateModified: '2015-12-18T00:08:22.054Z'
 title: Welcome to C.type
 author: []
+sourcePath: _posts/2015-12-17-welcome-to-ctype.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-welcome-to-ctype.md
-published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/286c247e-e830-4f86-aaeb-fd9e461e39b1.jpg)
+![Welcome to C.Type](https://s3-us-west-2.amazonaws.com/the-grid-img/p/97be3108b10b8117119958cba360cf920492e7ee.jpg)
