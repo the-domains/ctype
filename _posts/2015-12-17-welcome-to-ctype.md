@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Express your creative voice at work
-datePublished: '2015-12-18T00:14:21.895Z'
-dateModified: '2015-12-18T00:14:14.426Z'
+datePublished: '2015-12-18T00:21:39.886Z'
+dateModified: '2015-12-18T00:21:32.407Z'
 title: Welcome to C.type
 author: []
 sourcePath: _posts/2015-12-17-welcome-to-ctype.md
