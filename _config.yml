@@ -1,6 +1,6 @@
 name: ctype
 favicon: null
-layout_spectrum: 0.49107
+layout_spectrum: 0.75037
 typography_spectrum: 0.50596
 title: c.type
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#89d0d0'
     - '#222222'
-  brandStrength: 0
+  brandStrength: 0.625
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 0
