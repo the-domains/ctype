@@ -1,20 +1,4 @@
-name: ctype
-favicon: null
-layout_spectrum: 0.49553
 typography_spectrum: 0.7459
-title: c.type
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#159f9f'
@@ -26,4 +10,23 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49553
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ad43c41-66d6-4099-891d-0ddddcc44e2c.png
+name: ctype
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c851216c-43db-4c1d-a05f-773c94a19b78.png
+title: c.type
 purpose: []
